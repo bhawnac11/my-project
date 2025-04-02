@@ -1,6 +1,6 @@
 class Main{
 
-public static void main(String[]args){
+ static void main(String[]args){
 Main ob1=new Main();
 int Output=ob1.sum(12,12);
 System.out.println("Output:" + Output);

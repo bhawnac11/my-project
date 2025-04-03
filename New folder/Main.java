@@ -7,7 +7,7 @@ System.out.println("Output:" + Output);
 
 }
 
-public int sum(int x,int y){
+int sum(int x,int y){
 int z=x+y;
 System.out.println(z);
 return z;
